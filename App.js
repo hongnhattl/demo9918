@@ -6,7 +6,7 @@ export default class App extends React.Component {
     return (
       <View style={styles.container}>
         <Text style={{}}>
-          THAI HONG TUYEN
+          DEMO
         </Text> 
       </View>
     );
